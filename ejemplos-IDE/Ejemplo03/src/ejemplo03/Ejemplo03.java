@@ -26,6 +26,7 @@ public class Ejemplo03 {
         Poner un slah con un asterisco
         Se le da enter
         Se escribe el comentario
+        Se da enter
         Se pone al final un asterisco y un slah
         */
         int variable1;
