@@ -15,23 +15,18 @@ public class Ejemplo03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Tipos de dato en Java
+        // Para crear un comentario de una linea debo usar dos slahs con espacio
         
         // Tipos de dato en Java
 
         // Tipo de datos Entero
         
         /*
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
+       Para crear un comentario de multiples lineas se realiza lo siguiente:
+        Poner un slah con un asterisco
+        Se le da enter
+        Se escribe el comentario
+        Se pone al final un asterisco y un slah
         */
         int variable1;
         int variable2 = 10;
