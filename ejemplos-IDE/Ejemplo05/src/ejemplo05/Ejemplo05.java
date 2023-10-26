@@ -30,7 +30,7 @@ public class Ejemplo05 {
         System.out.println(10 % 3 );
         
         System.out.println("----------------");
-        System.out.println(Math.pow(10, 2));
+        System.out.println(Math.pow(10, 2)); //El metodo "pow" me permite elevar en potencia a un valor asignado.
         
         System.out.println("----------------");
         System.out.println(Math.sqrt(16));
@@ -38,6 +38,7 @@ public class Ejemplo05 {
         double m = Math.sqrt(16);
         System.out.println(m);
         
+       
     }
 
 }
